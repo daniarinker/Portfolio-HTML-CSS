@@ -2,7 +2,8 @@
 
 <h1 align="center">Portfolio HTML CSS</h1>
 
-<p align="center">
+<p align="center
+
   <img alt="Github top language" src="https://img.shields.io/github/languages/top/daniarinker/portfolio-html-css?color=56BEB8">
 
   <img alt="Github language count" src="https://img.shields.io/github/languages/count/daniarinker/portfolio-html-css?color=56BEB8">
