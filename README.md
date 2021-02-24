@@ -1,10 +1,4 @@
 <div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="Portfolio HTML CSS" />
-
-  &#xa0;
-
-  <!-- <a href="https://portfoliohtmlcss.netlify.app">Demo</a> -->
-</div>
 
 <h1 align="center">Portfolio HTML CSS</h1>
 
