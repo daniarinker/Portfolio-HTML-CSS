@@ -3,20 +3,15 @@
 <h1 align="center">Portfolio HTML CSS</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/{{YOUR_GITHUB_USERNAME}}/portfolio-html-css?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/daniarinker/portfolio-html-css?color=56BEB8">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/{{YOUR_GITHUB_USERNAME}}/portfolio-html-css?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/daniarinker/portfolio-html-css?color=56BEB8">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/{{YOUR_GITHUB_USERNAME}}/portfolio-html-css?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/daniarinker/portfolio-html-css?color=56BEB8">
 
-  <img alt="License" src="https://img.shields.io/github/license/{{YOUR_GITHUB_USERNAME}}/portfolio-html-css?color=56BEB8">
+  <img alt="License" src="https://img.shields.io/github/license/daniarinker/portfolio-html-css?color=56BEB8">
 
-  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/daniarinker/portfolio-html-css?color=56BEB8" /> -->
-
-  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/daniarinker/portfolio-html-css?color=56BEB8" /> -->
-
-  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/daniarinker/portfolio-html-css?color=56BEB8" /> -->
-</p>
+ </p>
 
 <!-- Status -->
 
@@ -85,7 +80,7 @@ $ yarn start
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
 
-Made with :heart: by <a href="https://github.com/{{YOUR_GITHUB_USERNAME}}" target="_blank">{{YOUR_NAME}}</a>
+Made with :heart: by <a href="https://github.com/daniarinker" target="_blank">Dania Rinker</a>
 
 &#xa0;
 
